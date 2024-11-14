@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "DomisorusRex",
+        "link": "https://www.youtube.com/@DomisorusRex"
+    },
+    {
+        "role": "admin",
+        "name": "Void",
+        "link": "https://www.youtube.com/channel/UCSMZg26RyqvsDlWiT6ftfHw"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]

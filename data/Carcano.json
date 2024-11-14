@@ -1,0 +1,18 @@
+{
+    "id": 64148732,
+    "name": "Carcano",
+    "author": "Asuith",
+    "creators": ["Asuith"],
+    "verifier": "None",
+    "verification": "https://www.youtube.com/watch?v=y4sQgpniOTA",
+    "percentToQualify": "59",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DomisorusRex",
+            "link": "",
+            "percent": 82,
+            "hz": 240
+        }
+    ]
+}

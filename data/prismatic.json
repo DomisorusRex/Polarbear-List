@@ -1,0 +1,19 @@
+{
+    "id": 108150390,
+    "name": "Prismatic Haze",
+    "author": "Gizbro",
+    "creators": ["Citrax & Gizbro"],
+    "verifier": "DomisorusRex",
+    "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
+    "percentToQualify": 62,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Chilldo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+

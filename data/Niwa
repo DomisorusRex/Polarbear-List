@@ -1,0 +1,24 @@
+{
+    "id": 107624334,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": [Teno],
+    "verifier": "DomisorusRex",
+    "verification": "https://www.youtube.com/watch?v=bRu2Ny68tW8",
+    "percentToQualify": "59",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Mako",
+            "link": "",
+            "percent": 58,
+            "hz": 240
+        }
+         {
+            "user": "Foxxgod",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
